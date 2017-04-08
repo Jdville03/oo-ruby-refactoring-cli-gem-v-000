@@ -18,7 +18,7 @@
 [MP4](Find learn s3 source?)
 
 
-## Summery
+## Summary
 
 * what do we mean by anti-patterns
 * explain our gem functionality
@@ -49,10 +49,10 @@
   * use `rescue` to pinpoint source of error
   * create logic to prevent the error stemming from different tags in final article
 * implement our new functionality throughout the app
-  * use our new logic to obtain and output the storis in cli class
+  * use our new logic to obtain and output the stories in cli class
   * add functionality to scrape individual article 
-* realize how efficiant our app is now that we've utilized Object Orientation
- * a story object now has power and convenenit methods 
+* realize how efficient our app is now that we've utilized Object Orientation
+ * a story object now has power and convenient methods 
 * commit and examine github diff post refactor
 
 ## Code
